@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - Source of data: USGS uploaded publicly available amazon s3 bucket found in the following url https://s3-us-west-2.amazonaws.com/usgs-lidar-public.
 
 ### Notebooks
-All the analysis on the data done one the juputer notebook are done here.
+All the analysis on the data done one the juputer notebook are done
 ### Scripts
 All scripts for the analysis will be found here
 ### Test
