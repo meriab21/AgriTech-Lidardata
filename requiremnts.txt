@@ -1,2 +1,2 @@
-python-pdal
+python-pdal2.3.0
 geopandas
